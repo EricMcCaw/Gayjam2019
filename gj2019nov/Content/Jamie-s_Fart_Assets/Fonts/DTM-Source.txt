@@ -1,0 +1,8 @@
+https://fontmeme.com/fonts/determination-font/
+DTM-Mono.otf
+DTM-Sans.otf
+
+license: 	Free
+designer: 	Harry Wakamatsu
+website: 	https://www.behance.net/japanyoshi
+font tags: 	pixel, free for commercial use
